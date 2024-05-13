@@ -6,8 +6,6 @@
 - 💬 Ask me about my latest coding challenges and breakthroughs.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love hiking and exploring Arizona's beautiful landscapes.
-![Uploading image.png…]()
-
 <!--
 **BySeyoueJohn/BySeyoueJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
